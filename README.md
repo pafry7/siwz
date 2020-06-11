@@ -4,5 +4,5 @@ Diagram BPMN
 
 ## Temat
 
-Model procesów inteligentnego domu
+Model procesów inteligentnego domu<br/>
 Autorzy: Mikołaj Cypliński, Patryk Fryda
